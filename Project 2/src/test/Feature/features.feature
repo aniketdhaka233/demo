@@ -12,4 +12,4 @@ Feature: Test grid
     Then go to Configuration tab and verify template is visible
     Then enter the site and select the site
     Then click on configuration module and click on use control config
-    Then Verify the Page by checking General Tab
+    Then Verify the Page by checking General Tab and quit
